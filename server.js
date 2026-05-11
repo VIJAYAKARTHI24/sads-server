@@ -8,7 +8,7 @@ app.use(express.json());
 
 // ─── REPLACE THESE 3 VALUES WITH YOURS ───
 const ACCOUNT_SID = 'AC6648ae2aaa5649ea2d18c0dc0131c624';
-const AUTH_TOKEN  = '6bde8fe2cc0392a3427aea5abde6cfa4';
+const AUTH_TOKEN  = '57f4f357fcfe13bd780e7fe2f4a620ad';
 const FROM_NUMBER = '+16514617736';
 // ─────────────────────────────────────────
 
