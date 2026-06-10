@@ -134,6 +134,3 @@ This project was presented as an IEEE conference paper at **Study World College 
 
 This project is for academic and research purposes.
 
----
-
-*Built with ❤️ by Team SADS — DSU ECE Final Year Project 2026*
